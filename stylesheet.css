@@ -13,13 +13,22 @@ body {
 header {
     background-color: beige;
     color: black;
-    padding: 20px;
+    padding: 200px;
 }
 
 header h1 {
     margin: 0;
     font-size: large;
     font-weight: normal;
+    padding-left: 300px;
+}
+
+.section{
+    background-color: aqua;
+    margin: 0;
+    font-size: medium;
+    font-weight: normal;
     padding-left: 200px;
+
 }
 
