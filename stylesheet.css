@@ -18,9 +18,8 @@ header {
 
 header h1 {
     margin: 0;
-    font-size: large;
+    font-size: medium;
     font-weight: normal;
-    padding-left: 250px;
 }
 
 .about-me{
