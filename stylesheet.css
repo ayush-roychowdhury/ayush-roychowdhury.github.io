@@ -22,7 +22,7 @@ h1 {
     font-weight: normal;
 }
 
-.about-me{
+.content-block {
     background-color: aqua;
     font-size: small;
     font-weight: normal;
@@ -30,11 +30,8 @@ h1 {
     margin: 0 0 80px;
 }
 
-.my-projects{
-    background-color: white;
-    font-size: small;
-    font-weight: normal;
-    padding-left: 20px;
-    margin: 0 0 80px;
+.image-resizing{
+    width: 200px
+    height: 200px
 }
 
