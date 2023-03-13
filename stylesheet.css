@@ -22,6 +22,12 @@ h1 {
     font-weight: normal;
 }
 
+section{
+    margin: 0;
+    font-size: small;
+    font-weight: normal;
+}
+
 .content-block {
     background-color: aqua;
     font-size: small;
