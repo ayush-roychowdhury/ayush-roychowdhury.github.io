@@ -16,7 +16,7 @@ header {
     padding: 20px;
 }
 
-header h1 {
+h1 {
     margin: 0;
     font-size: medium;
     font-weight: normal;
@@ -24,7 +24,15 @@ header h1 {
 
 .about-me{
     background-color: aqua;
-    font-size: medium;
+    font-size: small;
+    font-weight: normal;
+    padding-left: 20px;
+    margin: 0 0 80px;
+}
+
+.my-projects{
+    background-color: white;
+    font-size: small;
     font-weight: normal;
     padding-left: 20px;
     margin: 0 0 80px;
