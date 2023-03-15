@@ -22,6 +22,10 @@ h1 {
     font-weight: bold;
 }
 
+li{
+   margin: 10px;
+}
+
 section{
     margin: 20px;
     font-size: small;
